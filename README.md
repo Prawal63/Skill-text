@@ -17,4 +17,4 @@ Demo---https://prawal-skill-test.netlify.app/
 For further questions on this project
 
 - GitHub:- https://github.com/Prawal63 
-- Email: Prawalsinghbaghel@gmail.com
+- Email: prawalsinghbaghel@gmail.com
